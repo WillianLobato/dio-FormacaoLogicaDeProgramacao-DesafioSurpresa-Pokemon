@@ -1,6 +1,8 @@
-//DESAFIO SURPRESA
+//DIO - LÓGICA DE PROGRAMAÇÃO - DESAFIO SURPRESA
 // O QUE PRECISA SER FEITO ? Crie um código para armazenar o máximo de informações possível dos pokemon da imagem ao lado e ao final, para cada um, exiba uma mensagem de saída escrita o nome do pokemon concatenado com "Cadastrado com sucesso"
 // EXEMPLO: "DRAGONITE Cadastrado com sucesso"
+
+// Utilizar o que aprendeu em aula: algoritimos, estrutura de um programa, tipos de dados e variáveis e vetores e matrizes. 
 
 let infoPokemon = [
     ["Poochyena", "F", 2, 13, 13],
